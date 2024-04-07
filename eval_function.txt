@@ -1,0 +1,8 @@
+Eval function used in this program gives the max player: 
+20 points if the max player wins with red marbles.
+30 points if the max player wins with blue marbles.
+-20 points if the max player loses with red marbles.
+-30 points if the max player loses with blue marbles.
+
+I have chosen these points because red marbles accounts the score to be twice the number of marbles left and 
+blue marbles accounts the score to be thrice the number of marbles left.
